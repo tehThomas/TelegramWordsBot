@@ -21,7 +21,7 @@ public class WordsBot extends TelegramLongPollingBot {
     private String prevWord = "";
 
     public String getBotUsername() {
-        return "TemchikWordsBot";
+        return "TWordsBot";
     }
 
     public String getBotToken() {
